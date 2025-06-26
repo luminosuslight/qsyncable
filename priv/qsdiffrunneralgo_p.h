@@ -2,9 +2,9 @@
 #define QSDIFFRUNNERALGO_H
 
 #include <QString>
-#include "priv/qsalgotypes_p.h"
-#include "qspatch.h"
-#include "qstree.h"
+#include "qsyncable/priv/qsalgotypes_p.h"
+#include "qsyncable/qspatch.h"
+#include "qsyncable/priv/qstree.h"
 
 class QSDiffRunnerAlgo {
 

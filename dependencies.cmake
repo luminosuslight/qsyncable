@@ -9,6 +9,7 @@ set(PROJECT_HEADERS
     qsyncable/priv/qsdiffrunneralgo_p.h
     qsyncable/priv/qstree.h
     qsyncable/priv/qstreenode.h
+    qsyncable/priv/qsalgotypes_p.h
     qsyncable/qsjsonlistmodel.h
     qsyncable/qsyncablefunctions.h
     qsyncable/qsyncableqmlwrapper.h
